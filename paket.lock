@@ -5,13 +5,13 @@ NUGET
     Fable.JsonConverter (1.0.8)
       FSharp.Core (>= 4.2.3)
       Newtonsoft.Json (>= 11.0.1)
-    FAKE (4.64.13)
-    FSharp.Control.AsyncSeq (2.0.21)
+    FAKE (5.16)
+    FSharp.Control.AsyncSeq (2.0.22)
       FSharp.Core (>= 4.3.2)
-    FSharp.Core (4.3.4)
-    FSharp.Data (3.0.0-beta3)
+    FSharp.Core (4.7)
+    FSharp.Data (3.3.2)
       FSharp.Core (>= 4.3.4)
-    Newtonsoft.Json (11.0.2)
+    Newtonsoft.Json (12.0.2)
 
 GROUP Build
 
