@@ -1,5 +1,6 @@
-FSharp.Core
-FSharp.Data
-Newtonsoft.Json
-Fable.JsonConverter
-FSharp.Control.AsyncSeq
+group Farango
+    FSharp.Core
+    FSharp.Data
+    Newtonsoft.Json
+    Fable.JsonConverter
+    FSharp.Control.AsyncSeq
