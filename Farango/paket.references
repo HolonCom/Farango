@@ -1,4 +1,4 @@
-group Farango
+group Main
     FSharp.Core
     FSharp.Data
     Newtonsoft.Json
