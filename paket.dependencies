@@ -9,7 +9,7 @@ nuget Fable.JsonConverter
 nuget FAKE
 nuget FSharp.Control.AsyncSeq
 nuget FSharp.Core
-nuget FSharp.Data 3.0.0-beta3
+nuget FSharp.Data
 nuget Newtonsoft.Json
 
 group Build
